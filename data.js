@@ -16,7 +16,16 @@ var data = {
                 "turtle_shell"
             ]
         },
-
+        "Accuracy": {
+            "levelMax": "2",
+            "weight": "1",
+            "incompatible": [
+                ""
+            ],
+            "items": [
+                "bow"
+            ]
+        },
         "Aqua Affinity": {
             "levelMax": "1",
             "weight": "2",
@@ -26,6 +35,16 @@ var data = {
             "items": [
                 "helmet",
                 "turtle_shell"
+            ]
+        },
+        "Arrows Flight": {
+            "levelMax": "2",
+            "weight": "1",
+            "incompatible": [
+                ""
+            ],
+            "items": [
+                "bow"
             ]
         },
         "Bane of Arthropods": {
@@ -265,20 +284,22 @@ var data = {
             "levelMax": "1",
             "weight": "2",
             "incompatible": [
-                "Piercing"
+                ""
             ],
             "items": [
-                "crossbow"
+                "crossbow",
+		"bow"
             ]
         },
         "Piercing": {
             "levelMax": "4",
             "weight": "1",
             "incompatible": [
-                "Multishot"
+                ""
             ],
             "items": [
-                "crossbow"
+                "crossbow",
+		"bow"
             ]
         },
         "Power": {
@@ -324,7 +345,8 @@ var data = {
                 ""
             ],
             "items": [
-                "crossbow"
+                "crossbow",
+		"bow"
             ]
         },
         "Respiration": {
@@ -385,6 +407,16 @@ var data = {
             "items": [
                 "sword",
                 "axe"
+            ]
+        },
+        "Soul Flame": {
+            "levelMax": "1",
+            "weight": "4",
+            "incompatible": [
+                ""
+            ],
+            "items": [
+                "bow"
             ]
         },
         "Soul Speed": {
