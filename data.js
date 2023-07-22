@@ -96,6 +96,16 @@ var data = {
                 "boots"
             ]
         },
+        "Double Jump": {
+            "levelMax": "3",
+            "weight": "2",
+            "incompatible": [
+                ""
+            ],
+            "items": [
+                "boots"
+            ]
+        },
         "Efficiency": {
             "levelMax": "5",
             "weight": "1",
@@ -397,6 +407,16 @@ var data = {
                 "shears-bedrock"
             ]
         },
+        "Skywalker": {
+            "levelMax": "2",
+            "weight": "4",
+            "incompatible": [
+                ""
+            ],
+            "items": [
+                "boots"
+            ]
+        },
         "Smite": {
             "levelMax": "5",
             "weight": "1",
@@ -422,6 +442,16 @@ var data = {
         "Soul Speed": {
             "levelMax": "3",
             "weight": "4",
+            "incompatible": [
+                ""
+            ],
+            "items": [
+                "boots"
+            ]
+        },
+        "Speed": {
+            "levelMax": "3",
+            "weight": "1",
             "incompatible": [
                 ""
             ],
