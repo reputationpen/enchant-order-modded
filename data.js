@@ -219,6 +219,16 @@ var data = {
                 "sword"
             ]
         },
+	"Leeching Aspect": {
+            "levelMax": "2",
+            "weight": "2",
+            "incompatible": [
+                ""
+            ],
+            "items": [
+                "sword"
+            ]
+        },
         "Looting": {
             "levelMax": "3",
             "weight": "2",
